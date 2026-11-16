@@ -1,82 +1,30 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=200&section=header&text=Dhruv%20Gohel&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MSc%20DC%20Student&descAlignY=60&descSize=17" alt="Dhruv Gohel profile banner" width="100%" />
-
-<a href="https://github.com/2007dhruv">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Dhruv+Gohel+%F0%9F%91%8B;MSc+DC+Student+%7C+Semester+1;Building+useful+web+applications;Exploring+AI%2FML+and+software+engineering" alt="Animated introduction" />
-</a>
-
-<p>
-  <a href="https://github.com/2007dhruv?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
-  <a href="https://github.com/2007dhruv"><img src="https://img.shields.io/badge/GitHub-2007dhruv-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-</p>
-
-</div>
-
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=230&section=header&text=Dhruv%20Gohel&fontSize=56&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20MSc%20DC%20Student&descAlignY=58&descSize=18" alt="Dhruv Gohel profile banner" width="100%" /> <a href="https://github.com/2007dhruv"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Hi%2C+I'm+Dhruv+Gohel+%F0%9F%91%8B;MSc+DC+Student+%7C+Semester+1;Building+useful+web+applications+%F0%9F%9A%80;Exploring+AI%2FML+%26+Software+Engineering+%F0%9F%A4%96;Learn+consistently.+Build+thoughtfully." alt="Animated introduction" /> </a> <p> <img src="https://komarev.com/ghpvc/?username=2007dhruv&label=Profile+Views&style=for-the-badge&color=2563eb" alt="Profile views" /> <a href="https://www.linkedin.com/in/dhruv-gohel-610b5a351/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/2007dhruv?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a> </p> <img src="assets/divider.svg" width="100%" alt="" /> </div> <div align="center">
 👨‍💻 About Me
-Hey! I'm Dhruv Gohel, an MSc DC student who enjoys turning ideas into practical software.
-- 🎓 Currently pursuing MSc DC — Semester 1
-- 💻 Interested in full-stack development, AI/ML, and software engineering
-- 🧩 Practising problem-solving and strengthening my computer science fundamentals
-- 🛠️ Learning by building projects and improving them step by step
-- 🎯 Goal: create reliable, useful applications and grow as a software developer
+<img src="assets/about-terminal.svg" width="85%" alt="Animated terminal introducing Dhruv Gohel" /> </div> <br/>
+🎓 Currently pursuing MSc DC — Semester 1
+💻 Interested in full-stack development, AI/ML, and software engineering
+🧩 Practising problem-solving and strengthening my computer science fundamentals
+🛠️ Learning by building projects and improving them step by step
+🎯 Goal: create reliable, useful applications and grow as a software developer
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div> <div align="center">
 🧰 Tech Stack
-Technologies I use or am actively learning — this list should reflect your actual experience.
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,react,nodejs,express,mysql,mongodb,git,github,vscode&perline=7" alt="Technology icons" />
-</p>
-
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,react,nodejs,express,mysql,mongodb,git,github,vscode&perline=7&theme=dark" alt="Technology icons" /> </div> <div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div> <div align="center">
 🚀 Featured Projects
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌱 PlantGrowth AI</h3>
-      <p>An AI-focused project exploring plant analysis and model-powered predictions.</p>
-      <p><a href="https://github.com/2007dhruv/plantGrowth-Ai">View repository →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📁 File Management System</h3>
-      <p>A Laravel project to organise file workflows. Add the real features, screenshots, and setup details as you polish it.</p>
-      <p><a href="https://github.com/2007dhruv/file-system">View repository →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧾 Quotation App</h3>
-      <p>A business-oriented application for managing quotation workflows.</p>
-      <p><a href="https://github.com/2007dhruv/quotation-app">View repository →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧪 More projects</h3>
-      <p>Browse my repositories to see what I'm building and learning next.</p>
-      <p><a href="https://github.com/2007dhruv?tab=repositories">Explore all repositories →</a></p>
-    </td>
-  </tr>
-</table>
-
+</div> <table> <tr> <td width="50%" valign="top"> <h3>🌱 PlantGrowth AI</h3> <p>An AI-focused project exploring plant analysis and model-powered predictions.</p> <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/AI%2FML-06b6d4?style=flat-square" /></p> <p><a href="https://github.com/2007dhruv/plantGrowth-Ai"><b>View repository →</b></a></p> </td> <td width="50%" valign="top"> <h3>📁 File Management System</h3> <p>A Laravel project to organise and manage file workflows.</p> <p><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></p> <p><a href="https://github.com/2007dhruv/file-system"><b>View repository →</b></a></p> </td> </tr> <tr> <td width="50%" valign="top"> <h3>🧾 Quotation App</h3> <p>A business-oriented application for managing quotation workflows.</p> <p><img src="https://img.shields.io/badge/Full--Stack-2563eb?style=flat-square" /> <img src="https://img.shields.io/badge/Web%20App-0f172a?style=flat-square" /></p> <p><a href="https://github.com/2007dhruv/quotation-app"><b>View repository →</b></a></p> </td> <td width="50%" valign="top"> <h3>🧪 More projects</h3> <p>Browse my repositories to see what I'm building and learning next.</p> <p><img src="https://img.shields.io/badge/Always-Building-38bdf8?style=flat-square" /></p> <p><a href="https://github.com/2007dhruv?tab=repositories"><b>Explore all repositories →</b></a></p> </td> </tr> </table> <div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div> <div align="center">
 📊 GitHub Activity
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=2007dhruv&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2007dhruv&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=2007dhruv&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</div>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=2007dhruv&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub profile statistics" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2007dhruv&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" /> <br /> <img src="https://streak-stats.demolab.com?user=2007dhruv&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=2007dhruv&bg_color=0d1117&color=38bdf8&line=2563eb&point=ffffff&area=true&area_color=2563eb&hide_border=true" width="100%" alt="Contribution activity graph" />
+🐍 Contribution Snake
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2007dhruv/2007dhruv/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2007dhruv/2007dhruv/output/github-snake.svg" /> <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/2007dhruv/2007dhruv/output/github-snake.svg" /> </picture>
+🏆 Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=2007dhruv&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub trophies" /> </div> <div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 🌱 Currently Focusing On
-- Data Structures & Algorithms
-- Database design and SQL
-- Building and documenting complete applications
-- Testing, clean code, and Git workflows
-- Understanding software architecture and deployment
+<div align="center"> <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2563eb?style=for-the-badge" /> <img src="https://img.shields.io/badge/Database%20Design%20%26%20SQL-06b6d4?style=for-the-badge" /> <img src="https://img.shields.io/badge/Complete%20Applications-7c3aed?style=for-the-badge" /> <br /> <img src="https://img.shields.io/badge/Testing%20%26%20Clean%20Code-0ea5e9?style=for-the-badge" /> <img src="https://img.shields.io/badge/Git%20Workflows-f05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Architecture%20%26%20Deployment-0f172a?style=for-the-badge" /> </div> <div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div> <div align="center">
 🤝 Let's Connect
-<p align="center">
-  <a href="https://github.com/2007dhruv"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/dhruv-gohel-610b5a351/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
 
-<div align="center">
+<a href="https://github.com/2007dhruv"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/dhruv-gohel-610b5a351/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-“Learn consistently. Build thoughtfully. Improve every day.”
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=100&section=footer" alt="" width="100%" />
+<br/><br/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1500&color=94A3B8&center=true&vCenter=true&width=600&lines=%E2%80%9CLearn+consistently.%E2%80%9D;%E2%80%9CBuild+thoughtfully.%E2%80%9D;%E2%80%9CImprove+every+day.%E2%80%9D" alt="Motto" /> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer&animation=twinkling" alt="" width="100%" /> </div>
